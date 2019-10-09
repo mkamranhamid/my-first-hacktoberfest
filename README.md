@@ -37,9 +37,9 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 5. Push your changes to your branch
 
 ## Contributors
-[Kamran Hamid](https://github.com/mkamranhamid)
-[Faizan Amin](https://github.com/Faizanamin)
-[qasim](https://github.com/qasimabbas209)
-[Tazeen Fatima](https://github.com/tazeenfatima)
-[Mahin Ahmed](https://github.com/hmahin2)
-[Faizan Amin](https://github.com/Faizanamin)
+[Kamran Hamid](https://github.com/mkamranhamid)</br>
+[Faizan Amin](https://github.com/Faizanamin)</br>
+[qasim](https://github.com/qasimabbas209)</br>
+[Tazeen Fatima](https://github.com/tazeenfatima)</br>
+[Mahin Ahmed](https://github.com/hmahin2)</br>
+[Faizan Amin](https://github.com/Faizanamin)</br>
