@@ -38,6 +38,8 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 
 ## Contributors
 [Kamran Hamid](https://github.com/mkamranhamid)
+[Faizan Amin](https://github.com/Faizanamin)
+[qasim](https://github.com/qasimabbas209)
 [Tazeen Fatima](https://github.com/tazeenfatima)
 [Mahin Ahmed](https://github.com/hmahin2)
 [Faizan Amin](https://github.com/Faizanamin)
