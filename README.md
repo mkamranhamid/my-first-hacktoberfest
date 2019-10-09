@@ -38,3 +38,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 
 ## Contributors
 [Kamran Hamid](https://github.com/mkamranhamid)
+[Mahin Ahmed](https://github.com/hmahin2)
