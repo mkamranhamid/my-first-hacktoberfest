@@ -48,3 +48,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [janakpoojary](https://github.com/janakpoojary)</br>
 [guilhermeasper](https://github.com/Guilhermeasper)</br>
 [Arwin Neil](https://github.com/arwinneil)</br>
+[Barosch](https://github.com/barosch47)</br>
