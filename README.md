@@ -51,3 +51,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [Raul Hernandez](https://github.com/Raal9410)</br>
 [Barosch](https://github.com/barosch47)</br>
 [Yuvraj Seegolam](https://github.com/yuvraj108c)</br>
+[Irfan Sener](https://github.com/irfansener)</br>
