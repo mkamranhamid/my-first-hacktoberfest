@@ -1,7 +1,7 @@
 # My First Hacktoberfest
 To read more about hacktoberfest please follow [this](https://hacktoberfest.digitalocean.com/) link.
 
-## Create first Pull Request
+## Create your first Pull Request here
 
 1.  [Fork](https://help.github.com/articles/fork-a-repo/) the project, clone
     your fork:
@@ -48,6 +48,7 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [janakpoojary](https://github.com/janakpoojary)</br>
 [guilhermeasper](https://github.com/Guilhermeasper)</br>
 [Arwin Neil](https://github.com/arwinneil)</br>
+[magsboy](https://github.com/magss)</br>
 [Raul Hernandez](https://github.com/Raal9410)</br>
 [Barosch](https://github.com/barosch47)</br>
 [Yuvraj Seegolam](https://github.com/yuvraj108c)</br>
@@ -59,3 +60,6 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [James Wichanon](https://github.com/wichanon14)</br>
 [Ferdi S Kennedy](https://github.com/kennedy69)</br>
 [Ayush Kumar](https://github.com/COLONAYUSH)</br>
+[Harshit Garg](https://github.com/HarshitGarg-2002)</br>
+[Karvika](https://github.com/Karvika)</br>
+[Harsh](https://github.com/harshgupta28)</br>
