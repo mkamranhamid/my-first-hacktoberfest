@@ -60,3 +60,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [asphil](https://github.com/magss)</br>
 [James Wichanon](https://github.com/wichanon14)</br>
 [Ferdi S Kennedy](https://github.com/kennedy69)</br>
+[Harshit Garg](https://github.com/HarshitGarg-2002)</br>
