@@ -1,7 +1,7 @@
 # My First Hacktoberfest
 To read more about hacktoberfest please follow [this](https://hacktoberfest.digitalocean.com/) link.
 
-## Create first Pull Request
+## Create your first Pull Request here
 
 1.  [Fork](https://help.github.com/articles/fork-a-repo/) the project, clone
     your fork:
