@@ -1,5 +1,5 @@
 # My First Hacktoberfest
-To read more about hacktoberfest please follow [this](https://hacktoberfest.digitalocean.com/) link
+To read more about hacktoberfest please follow [this](https://hacktoberfest.digitalocean.com/) link.
 
 ## Create first Pull Request
 
@@ -55,3 +55,5 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [Vani Taneja]( https://github.com/vanitaneja22)</br>
 [Djenifer R. Pereira](https://github.com/djeni98)</br>
 [Atithi kumari](https://github.com/Atithi360)</br>
+[Harsh gupta](https://github.com/harshgupta28)</br>
+
