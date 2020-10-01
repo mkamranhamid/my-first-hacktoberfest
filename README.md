@@ -48,6 +48,7 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [janakpoojary](https://github.com/janakpoojary)</br>
 [guilhermeasper](https://github.com/Guilhermeasper)</br>
 [Arwin Neil](https://github.com/arwinneil)</br>
+[magsboy](https://github.com/magss)</br>
 [Raul Hernandez](https://github.com/Raal9410)</br>
 [Barosch](https://github.com/barosch47)</br>
 [Yuvraj Seegolam](https://github.com/yuvraj108c)</br>
@@ -56,5 +57,6 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [Djenifer R. Pereira](https://github.com/djeni98)</br>
 [Atithi kumari](https://github.com/Atithi360)</br>
 [Harsh gupta](https://github.com/harshgupta28)</br>
+[asphil](https://github.com/magss)</br>
 [James Wichanon](https://github.com/wichanon14)</br>
 [Ferdi S Kennedy](https://github.com/kennedy69)</br>
