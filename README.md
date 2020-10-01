@@ -55,3 +55,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [Vani Taneja]( https://github.com/vanitaneja22)</br>
 [Djenifer R. Pereira](https://github.com/djeni98)</br>
 [Harsh gupta](https://github.com/harshgupta28)</br>
+[Ferdi S Kennedy](https://github.com/kennedy69)</br>
