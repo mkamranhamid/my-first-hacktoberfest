@@ -57,6 +57,6 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [Djenifer R. Pereira](https://github.com/djeni98)</br>
 [Atithi kumari](https://github.com/Atithi360)</br>
 [Harsh gupta](https://github.com/harshgupta28)</br>
-[asphil](https://github.com/magss)</br>
 [James Wichanon](https://github.com/wichanon14)</br>
 [Ferdi S Kennedy](https://github.com/kennedy69)</br>
+[Harsh](https://github.com/harshgupta28)</br>
