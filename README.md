@@ -54,5 +54,6 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [Irfan Sener](https://github.com/irfansener)</br>
 [Vani Taneja]( https://github.com/vanitaneja22)</br>
 [Djenifer R. Pereira](https://github.com/djeni98)</br>
+[Atithi kumari](https://github.com/Atithi360)</br>
 [Harsh gupta](https://github.com/harshgupta28)</br>
 [Nimesh Kavinda](https://github.com/nimeshkavinda)</br>
