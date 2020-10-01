@@ -63,3 +63,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [Harshit Garg](https://github.com/HarshitGarg-2002)</br>
 [Karvika](https://github.com/Karvika)</br>
 [Harsh](https://github.com/harshgupta28)</br>
+[João Pedro] (https://github.com/jpedrinhoxd)</br>
