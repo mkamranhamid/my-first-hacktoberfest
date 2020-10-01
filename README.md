@@ -58,3 +58,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [Harsh gupta](https://github.com/harshgupta28)</br>
 [James Wichanon](https://github.com/wichanon14)</br>
 [Ferdi S Kennedy](https://github.com/kennedy69)</br>
+[Ayush Kumar](https://github.com/COLONAYUSH)</br>
