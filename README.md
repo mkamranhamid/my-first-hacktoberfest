@@ -57,4 +57,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [Djenifer R. Pereira](https://github.com/djeni98)</br>
 [Harsh gupta](https://github.com/harshgupta28)</br>
 [asphil](https://github.com/magss)</br>
-[asphil rens](https://github.com/magss)</br>
+[asphil rens](https://github.com/magsss)</br>
