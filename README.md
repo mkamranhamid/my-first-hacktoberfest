@@ -66,3 +66,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [Anirban Dey](https://github.com/anirbandey303)</br>
 [Leoperon](https://github.com/Leoperon)</br>
 [João Pedro](https://github.com/jpedrinhoxd)</br>
+[Ilman Syafiqi](https://github.com/ilmansyafiqi)</br>
