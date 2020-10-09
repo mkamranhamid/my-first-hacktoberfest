@@ -68,3 +68,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [João Pedro](https://github.com/jpedrinhoxd)</br>
 [Ilman Syafiqi](https://github.com/ilmansyafiqi)</br>
 [sushant kumbhar](https://github.com/kumbharsushant)</br>
+[swt02026](https://github.com/swt02026)</br>
