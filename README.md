@@ -70,3 +70,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [sushant kumbhar](https://github.com/kumbharsushant)</br>
 [swt02026](https://github.com/swt02026)</br>
 [Muhammad Nauval Faiq Khilmi](http://github.com/novalfaiq)</br>
+[Kinjal Rathod](https://github.com/RathodKinjal76)</br>
