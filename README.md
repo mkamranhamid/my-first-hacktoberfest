@@ -74,3 +74,4 @@ To read more about hacktoberfest please follow [this](https://hacktoberfest.digi
 [Rahul Barad](https://github.com/RahulBarad)</br>
 [Luis HSantos] (https://github.com/luis-hsantos)</br>
 [Krupa Nagar](https://github.com/krupanagar)</br>
+[Shakir](https://github.com/shakircode)</br>
